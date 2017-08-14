@@ -2,6 +2,16 @@
 
 > backend for aip movie review app
 
+This is the backend for aip-4-frontend
+You can install / configure all necessary bits by running:
+
+> sudo bash config.sh
+
+Then in both the backend and frontend directories:
+
+> yarn install
+> yarn start
+
 ## About
 
 This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
