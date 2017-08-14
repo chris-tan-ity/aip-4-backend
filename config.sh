@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # Installing npm (node package manager)
+apt-get update
+apt-get upgrade -y
 apt-get install -y npm
 
 # Using npm to install n (node version manager)
